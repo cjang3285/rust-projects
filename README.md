@@ -1,1 +1,3 @@
-### These projects are for me to get used to Rust Programming language by typing what AI recommended to me. "Got refereneces from AI models".
+##This directory covers my projects using Rust
+
+### Implementation based on AI-provided code examples. All inline comments and documentation written by author.
